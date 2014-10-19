@@ -2,7 +2,7 @@ ssTooltips
 ==========
 
 This is a simple jQuery plugin that make nice tooltips.
-You do not need CSS. You need to include the jQuery library and enter a few lines of code.
+You do not need CSS. You need to include the jQuery library and enter a few lines of code. [DEMO](http://www.pikturo.pl/projects/jquery-simple-tooltip)
 
 ## Quick start
 
