@@ -13,7 +13,7 @@ You do not need CSS. You need to include the jQuery library and enter a few line
 ```
 
 2. Start ssTooltips engine with using two parameters: ( 'your-class', {options})
-```html
+```js
 $(document).ready(function(){
 	
 	// strt your ssTooltips plugin
